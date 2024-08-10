@@ -1,0 +1,17 @@
+{
+    "today": [
+      {"latitude": 17.385044, "longitude": 78.486671, "timestamp": "2024-08-09T10:00:00Z"},
+      {"latitude": 17.385045, "longitude": 78.486672, "timestamp": "2024-08-09T10:00:02Z"},
+      {"latitude": 17.385046, "longitude": 78.486673, "timestamp": "2024-08-09T10:00:04Z"},
+      {"latitude": 17.385047, "longitude": 78.486674, "timestamp": "2024-08-09T10:00:06Z"},
+      {"latitude": 17.385048, "longitude": 78.486675, "timestamp": "2024-08-09T10:00:08Z"}
+    ],
+    "yesterday": [
+      {"latitude": 17.384044, "longitude": 78.485671, "timestamp": "2024-08-08T10:00:00Z"},
+      {"latitude": 17.384045, "longitude": 78.485672, "timestamp": "2024-08-08T10:00:02Z"},
+      {"latitude": 17.384046, "longitude": 78.485673, "timestamp": "2024-08-08T10:00:04Z"},
+      {"latitude": 17.384047, "longitude": 78.485674, "timestamp": "2024-08-08T10:00:06Z"},
+      {"latitude": 17.384048, "longitude": 78.485675, "timestamp": "2024-08-08T10:00:08Z"}
+    ]
+  }
+  
